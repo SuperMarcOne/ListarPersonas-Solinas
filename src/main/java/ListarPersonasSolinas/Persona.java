@@ -1,5 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
+package ListarPersonasSolinas;
+
 //creando la clase persona con los getters y setters
 public class Persona {
     String nombre;
